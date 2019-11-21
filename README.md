@@ -1,6 +1,6 @@
 # BleMesh
 
- ![CocoaPods](https://img.shields.io/badge/pod-1.0.0-3388CC.svg) ![Target](https://img.shields.io/badge/target-iOS%209.0+-CC8833.svg) ![Languages](https://img.shields.io/badge/languages-Objective--C%20%7C%20Swift-338888.svg)
+ ![CocoaPods](https://img.shields.io/badge/pod-1.0.0-3388CC.svg) ![Target](https://img.shields.io/badge/target-iOS%2011.0+-CC8833.svg) ![Languages](https://img.shields.io/badge/languages-Objective--C%20%7C%20Swift-338888.svg)
 
 BleMesh makes it easy to mesh devices to let them share messages over Bluetooth Low Energy (BLE).
 
